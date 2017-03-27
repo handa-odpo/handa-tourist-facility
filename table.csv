@@ -1,10 +1,10 @@
 #LINK,,,,,,,,,,,,,
 #lang,ja,,,,,,,,,,,,
 #attribution_url,http://www.city.handa.lg.jp/,,,,,,,,,,,,
-#attribution_name,半田市企画課,,,,,,,,,,,,
-#license,http://creativecommons.org/licenses/by/3.0/deed.ja,,,,,,,,,,,,
-#file_name,handa_kankoshisetus_list,,,,,,,,,,,,
-#download_from,http://linkdata.org/work/rdf1s4887i,,,,,,,,,,,,
+#attribution_name,はんだオープンデータ活用推進研究会,,,,,,,,,,,,
+#license,https://github.com/handa-odpo/handa-tourist-facility/blob/master/LICENSE,,,,,,,,,,,,
+#file_name,handa_tourist_facility_list_with_tag,,,,,,,,,,,,
+#download_from,,,,,,,,,,,,,
 #namespace,ic,http://imi.ipa.go.jp/ns/core/rdf#,,,,,,,,,,,
 #property,ic:市区町村コード,ic:ID,ic:種別,ic:名称,ic:表記,ic:郵便番号,http://www.w3.org/2003/01/geo/wgs84_pos#lat,http://www.w3.org/2003/01/geo/wgs84_pos#long,ic:説明,ic:名称,ic:電話番号,ic:Webサイト,tag
 #object_type_xsd,string:ja,string,string,string,string,string,float,float,string,string,string,string,stging
