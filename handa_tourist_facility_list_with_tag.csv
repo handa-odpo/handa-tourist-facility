@@ -7,7 +7,7 @@
 #download_from,,,,,,,,,,,,,
 #namespace,ic,http://imi.ipa.go.jp/ns/core/rdf#,,,,,,,,,,,
 #property,ic:市区町村コード,ic:ID,ic:種別,ic:名称,ic:表記,ic:郵便番号,http://www.w3.org/2003/01/geo/wgs84_pos#lat,http://www.w3.org/2003/01/geo/wgs84_pos#long,ic:説明,ic:名称,ic:電話番号,ic:Webサイト,tag
-#object_type_xsd,string:ja,string,string,string,string,string,float,float,string,string,string,string,stging
+#object_type_xsd,string:ja,string,string,string,string,string,float,float,string,string,string,string,string
 #property_context,Assertion,Assertion,Assertion,Assertion,Assertion,Assertion,Assertion,Assertion,Assertion,Assertion,Assertion,Assertion,Assertion
 1,232050,KN0001,観光,半田赤レンガ建物,愛知県半田市榎下町8,4750867,34.901626,136.928439,明治31年（1898年）にカブトビールの製造工場として誕生。明治時代に建てられたレンガ建造物としては日本で五本の指に入る貴重な建造物です。,半田赤レンガ建物,0569-24-7031,http://handa-akarenga.jp/,"#カブトビール
 #飲み
